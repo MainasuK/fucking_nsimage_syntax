@@ -19,7 +19,7 @@
     if (self) {
         _outputDirectory=path;
         _errorString=nil;
-        _generatorVersion=@"20141028-3";
+        _generatorVersion=@"20190819-4";
         BOOL isDir;
         if ([[NSFileManager defaultManager]fileExistsAtPath:path isDirectory:&isDir]) {
             if (!isDir) {
