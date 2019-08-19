@@ -759,7 +759,7 @@
 {
     NSMutableString* result=[[NSMutableString alloc]init];
     [result appendString:@"<!DOCTYPE html><html><head><meta charset=\"utf-8\"><title>Fucking NSImage Syntax</title>\n"];
-    [result appendString:@"<link rel=\"stylesheet\" href=\"http://yui.yahooapis.com/pure/0.5.0/pure-min.css\">\n"];
+    [result appendString:@"<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.1/pure-min.css\">\n"];
     [result appendString:@"</head><body><div class=\"content\" style=\"margin:48px;\">"];
     [result appendString:@"<h1>Fucking NSImage Syntax</h1>"];
     
@@ -782,7 +782,7 @@
 {
     NSMutableString* result=[[NSMutableString alloc]init];
     [result appendString:@"<!DOCTYPE html><html><head><meta charset=\"utf-8\"><title>Fucking NSImage Syntax (page 2)</title>\n"];
-    [result appendString:@"<link rel=\"stylesheet\" href=\"http://yui.yahooapis.com/pure/0.5.0/pure-min.css\">\n"];
+    [result appendString:@"<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.1/pure-min.css\">\n"];
     [result appendString:@"</head><body><div class=\"content\" style=\"margin:48px;\">"];
     [result appendString:@"<h1>Fucking NSImage Syntax (page 2)</h1>"];
     
